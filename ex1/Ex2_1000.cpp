@@ -1,4 +1,3 @@
-// A+B
 #include <iostream>
 
 using namespace std;
