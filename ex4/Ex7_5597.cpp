@@ -1,10 +1,11 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
 int main() {
 
-    int n[31] = { 0 };
+    vector<int>n(31);
     int a;
 
     for (int i = 0; i < 28; i++) {
